@@ -1,0 +1,16 @@
+{
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Dayle Rees Color Schemes/sublime/contrast/darkside-contrast.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Roboto Mono",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"save_on_focus_lost": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
