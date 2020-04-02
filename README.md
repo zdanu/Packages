@@ -7,6 +7,7 @@ Installed Custom Packages:
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
 - [SublimeLinter-php](https://github.com/SublimeLinter/SublimeLinter-php)
 - [SublimeLinter-phpcs](https://github.com/SublimeLinter/SublimeLinter-phpcs)
+- [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade)
 
 **Installation:**
 1. Use `git clone git@github.com:zdanu/Packages.git` in your Sublime Text 3 Settings path:
